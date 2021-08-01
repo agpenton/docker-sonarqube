@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'arm'
+      - 'master'
   pull_request:
     branches:
       - 'master'
